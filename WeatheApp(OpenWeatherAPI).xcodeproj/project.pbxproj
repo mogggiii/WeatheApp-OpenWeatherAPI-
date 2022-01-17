@@ -17,6 +17,7 @@
 		CE3B332827917ED80014E1F1 /* NetworkWeatherManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3B332727917ED70014E1F1 /* NetworkWeatherManager.swift */; };
 		CE3B332A279180EF0014E1F1 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3B3329279180EF0014E1F1 /* Constants.swift */; };
 		CE3B332C2792C8160014E1F1 /* CurrentWeatherData.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3B332B2792C8160014E1F1 /* CurrentWeatherData.swift */; };
+		CE5E2236279572880058167E /* CurrentWeather.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE5E2235279572880058167E /* CurrentWeather.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		CE3B332727917ED70014E1F1 /* NetworkWeatherManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkWeatherManager.swift; sourceTree = "<group>"; };
 		CE3B3329279180EF0014E1F1 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		CE3B332B2792C8160014E1F1 /* CurrentWeatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentWeatherData.swift; sourceTree = "<group>"; };
+		CE5E2235279572880058167E /* CurrentWeather.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentWeather.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				CE3B332727917ED70014E1F1 /* NetworkWeatherManager.swift */,
 				CE3B332B2792C8160014E1F1 /* CurrentWeatherData.swift */,
+				CE5E2235279572880058167E /* CurrentWeather.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -192,6 +195,7 @@
 			files = (
 				CE3B3311279079A70014E1F1 /* WeatherViewController.swift in Sources */,
 				CE3B330D279079A70014E1F1 /* AppDelegate.swift in Sources */,
+				CE5E2236279572880058167E /* CurrentWeather.swift in Sources */,
 				CE3B332827917ED80014E1F1 /* NetworkWeatherManager.swift in Sources */,
 				CE3B330F279079A70014E1F1 /* SceneDelegate.swift in Sources */,
 				CE3B3326279084C90014E1F1 /* WeatherViewControlle + alertController.swift in Sources */,
